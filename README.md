@@ -14,4 +14,4 @@ Pour Mac Os (installation de Kivy):
 * brew install pkg-config sdl2 sdl2_image sdl2_ttf sdl2_mixer gstreamer (penser à installer Homebrew)
 * pip install Cython==0.28.3
 * pip install kivy
-* pip install pygame
+* pip install pygames
